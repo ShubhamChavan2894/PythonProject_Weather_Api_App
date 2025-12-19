@@ -1,5 +1,5 @@
 #6388e86e191d6272b65749470b31f338  <---- API KEY
-
+#create and use your own key from the website --> https://openweathermap.org/
 import  sys
 import  requests
 from PyQt5.QtWidgets import (QApplication, QWidget, QLabel, QLineEdit,
