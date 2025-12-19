@@ -1,0 +1,3 @@
+MY first python mini project 
+I have used PyQt5 for this project 
+Its a weather api app which gather data from 'openweathermap' and displays it as an output
