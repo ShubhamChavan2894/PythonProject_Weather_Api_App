@@ -1,4 +1,4 @@
-#6388e86e191d6272b65749470b31f338  <---- API KEY
+#<---- API KEY
 #create and use your own key from the website --> https://openweathermap.org/
 import  sys
 import  requests
@@ -76,7 +76,7 @@ class WeatherApp(QWidget):
 
 
     def get_weather(self):
-        api_key = "6388e86e191d6272b65749470b31f338"
+        api_key = "API_KEY"
         city = self.city_input.text()
         url = f"https://api.openweathermap.org/data/2.5/weather?q={city}&appid={api_key}"
 
